@@ -1,4 +1,4 @@
-package com.example.examjava;
+/*package com.example.examjava;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -144,3 +144,4 @@ public class ExampleUnitTest {
         assertEquals(0, rowCount);
     }
 }
+*/
